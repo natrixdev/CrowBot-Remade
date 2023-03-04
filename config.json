@@ -1,0 +1,16 @@
+{
+    "token": "process.env.TOKEN",
+    "color": "#5a0799",
+    "prefix": "*",
+    "name": "natrix",
+    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
+    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+    "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+    "owner": [
+        "1003618812836446281",
+        "953021664218742815",
+        "964833723977719878",
+        "929765564136689734",
+        ""
+    ]
+}
